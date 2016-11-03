@@ -1,5 +1,6 @@
 div{
-    border:1em solid orange;
+    border:10px solid orange;
     width: 15em;
-     padding: 1em;
+    padding:22px;
+    font-size:20px;  
 }
